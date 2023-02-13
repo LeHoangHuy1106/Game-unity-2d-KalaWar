@@ -24,6 +24,10 @@ Fighing Kala War là một game thuộc thể loại đối kháng đơn giản 
 </center>
 
 
+[![Demo Video](https://img.youtube.com/vi/VIDEO-AlAILQoI2pM&t=15s/0.jpg)](https://www.youtube.com/watch?v=AlAILQoI2pM&t=15s)
+
+
+
 ##### Cốt truyện
 
 Bên ngoài vũ trụ xa xôi, Có một hành tinh tên là Kala tồn tại 4 chủng tộc và mỗi chủng tộc ẩn chứa trong mình nhiều sức mạnh phi thường khác nhau. Họ thường có mối quan hệ không được tốt đẹp và hay xảy ra các trận chiến xung đột với nhau. Một ngày nọ, họ được ban quản lý vũ trụ mời tham gia vào “Kala War”, đây là nơi để đại diện mạnh nhất của từng chủng tộc thi đấu với nhau và tìm ra được người mạnh nhất chiến thắng giải đấu này. Người thắng cuộc sẽ mang về vinh quang là chủng tộc mạnh nhất cho chủng tộc của mình trong vòng 2 năm tới, cùng với đó là phần thưởng cho người thắng cuộc là các phần thưởng vô cùng giá trị.
