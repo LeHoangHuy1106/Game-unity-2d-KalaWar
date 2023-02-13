@@ -24,7 +24,7 @@ Fighing Kala War là một game thuộc thể loại đối kháng đơn giản 
 </center>
 
 
-[![Demo Video](https://img.youtube.com/vi/VIDEO-AlAILQoI2pM&t=15s/0.jpg)](https://www.youtube.com/watch?v=AlAILQoI2pM&t=15s)
+[![Demo Video](https://www.youtube.com/watch?v=AlAILQoI2pM&t=15s/0.jpg)](https://www.youtube.com/watch?v=AlAILQoI2pM&t=15s)
 
 
 
